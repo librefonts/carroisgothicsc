@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<ttFont sfntVersion="OTTO" ttLibVersion="2.4">
+  <GlyphOrder src="CarroisGothicSC-Regular.otf.GlyphOrder.ttx"/>
+  <head src="CarroisGothicSC-Regular.otf._h_e_a_d.ttx"/>
+  <hhea src="CarroisGothicSC-Regular.otf._h_h_e_a.ttx"/>
+  <maxp src="CarroisGothicSC-Regular.otf._m_a_x_p.ttx"/>
+  <OS_2 src="CarroisGothicSC-Regular.otf.O_S_2f_2.ttx"/>
+  <name src="CarroisGothicSC-Regular.otf._n_a_m_e.ttx"/>
+  <cmap src="CarroisGothicSC-Regular.otf._c_m_a_p.ttx"/>
+  <post src="CarroisGothicSC-Regular.otf._p_o_s_t.ttx"/>
+  <CFF src="CarroisGothicSC-Regular.otf.C_F_F_.ttx"/>
+  <GPOS src="CarroisGothicSC-Regular.otf.G_P_O_S_.ttx"/>
+  <hmtx src="CarroisGothicSC-Regular.otf._h_m_t_x.ttx"/>
+  <DSIG src="CarroisGothicSC-Regular.otf.D_S_I_G_.ttx"/>
+</ttFont>
