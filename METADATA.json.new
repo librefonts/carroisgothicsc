@@ -1,0 +1,23 @@
+{
+  "name": "Carrois Gothic SC",
+  "designer": "Ralph du Carrois",
+  "license": "OFL",
+  "visibility": "Sandbox",
+  "category": "Sans Serif",
+  "size": 21976,
+  "fonts": [
+    {
+      "name": "CarroisGothic Caps",
+      "style": "normal",
+      "weight": 400,
+      "filename": "CarroisGothicCaps-Regular.ttf",
+      "postScriptName": "CarroisGothicCaps",
+      "fullName": "CarroisGothic Caps",
+      "copyright": "Copyright (c) 2011 by Ralph du Carrois, with Reserved Font Name \"CarroisGothic Caps\""
+    }
+  ],
+  "subsets": [
+    "latin"
+  ],
+  "dateAdded": "2012-09-30"
+}
